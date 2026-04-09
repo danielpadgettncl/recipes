@@ -6,3 +6,4 @@
 * Vodka
 * Salt
 ## Instructions
+* put one avacado in a bowl
